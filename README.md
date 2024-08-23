@@ -1,0 +1,2 @@
+# Algorithmic-Trading-Projects
+Building 3 Projects as a first step into algorithmic trading using Python: 1. An Equal-Weight S&amp;P 500 Index Fund  2. A Quantitative Momentum Investing Strategy  3. A Quantitative Value Investing Strategy
